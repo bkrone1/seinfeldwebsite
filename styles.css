@@ -1,0 +1,50 @@
+styles.css
+body {
+  font-family: sans-serif;
+
+}
+main {
+float:left;
+  border: 5px blink #ff0000;
+  text-align: center;
+  margin: 80px;
+
+
+}
+
+header {
+  border-bottom: 7px dotted #000000;
+  margin: 15px;
+  padding: 20px;
+  height: 155px;
+  text-align: center;
+}
+
+aside {
+  float: right;
+  text-align: right;
+}
+
+.morty{
+	color: #561894;
+}
+
+.frank {
+	background: cyan;
+}
+
+.red{
+	color: red;
+}
+
+.social{
+  background-color: red;
+  position: fixed;
+  padding: 30px;
+  top: 94px;
+  right: 44px;
+}
+
+footer{
+	clear: both;
+}

@@ -8,6 +8,7 @@ float:left;
   border: 5px blink #ff0000;
   text-align: center;
   margin: 80px;
+  text-color: white;
 
 
 }
@@ -18,6 +19,10 @@ header {
   padding: 20px;
   height: 155px;
   text-align: center;
+  background-image: url(https://bloggingbooktopics.files.wordpress.com/2014/10/seinfeld-logo.jpg);
+  font-size: 40px;
+  color: purple;
+  top: 70px;
 }
 
 aside {
